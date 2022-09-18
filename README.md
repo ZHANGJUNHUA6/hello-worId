@@ -1,3 +1,3 @@
 # hello-worId
 My first respository GitHub
-i love :tea ,:coffe:,and :panda_face:,
+i love :tea ,:coffee:,and :panda_face:,
